@@ -1,4 +1,3 @@
-knot3-pflichtenheft
+Pflichtenheft und Entwurf
 ===================
 
-Pflichtenheft
